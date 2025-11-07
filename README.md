@@ -1,4 +1,4 @@
-🏠 Smart Home Automation Simulator
+🏠 Smart Home Automation Simulator(java)
 
 Smart Home Automation Simulator is a modern and interactive JavaFX application that allows users to simulate, control, and manage smart devices — such as lights, fans, thermostats, and security cameras — within a virtual smart home environment.
 🚀 Key Features
